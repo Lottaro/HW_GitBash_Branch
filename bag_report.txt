@@ -1,0 +1,14 @@
+Summary
+Project
+Component
+Version
+Severity
+Priority
+Status
+Author
+Assigned To
+ОС / Сервис Пак и т.д. / Браузера + версия / ...
+Steps to Reproduce
+Result
+Expected Result
+Attachments
