@@ -1,0 +1,16 @@
+ {
+    { "registration": [
+        "email",
+        "social network",
+        "field validation"
+    ] 
+    }
+    {
+    "authorization": [
+        "user activated",
+        "user is not activated",
+        "password recovery",
+        "field validation"
+    ]
+    }
+ }    
