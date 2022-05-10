@@ -7,7 +7,7 @@ Priority
 Status
 Author
 Assigned To
-ОС / Сервис Пак и т.д. / Браузера + версия / ...
+Environment
 Steps to Reproduce
 Result
 Expected Result
