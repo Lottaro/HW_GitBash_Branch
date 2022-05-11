@@ -2,14 +2,14 @@
 Для уроков по работе с ветвями
 
 
-1. На локальном репозитории сделать ветки для:
-- Postman        - git branch Postman
-- Jmeter         - git branch Jmeter
-- CheckLists     - git branch CheckLists
-- Bag Reports    - git branch Bag_Reports
-- SQL            - git branch SQL
-- Charles        - git branch Charles
-- Mobile testing - git branch Mobile_testing
+**1. На локальном репозитории сделать ветки для Postman, Jmeter, CheckLists, Bag Reports, SQL, Charles, Mobile testing:
+- git branch Postman
+- git branch Jmeter
+- git branch CheckLists
+- git branch Bag_Reports
+- git branch SQL
+- git branch Charles
+- git branch Mobile_testing
 
 2. Запушить все ветки на внешний репозиторий - git push -u origin --all
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта - git checkout BagReports
