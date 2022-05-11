@@ -2,7 +2,7 @@
 Для уроков по работе с ветвями
 
 
-**1. На локальном репозитории сделать ветки для Postman, Jmeter, CheckLists, Bag Reports, SQL, Charles, Mobile testing:
+**1. На локальном репозитории сделать ветки для Postman, Jmeter, CheckLists, Bag Reports, SQL, Charles, Mobile testing:**
 - git branch Postman
 - git branch Jmeter
 - git branch CheckLists
