@@ -1,5 +1,4 @@
 # HW_GitBash_Branch
-Для уроков по работе с ветвями
 
 
 **1. На локальном репозитории сделать ветки для Postman, Jmeter, CheckLists, Bag Reports, SQL, Charles, Mobile testing:**
